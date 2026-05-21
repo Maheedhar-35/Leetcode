@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mahedhar-35/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mahedhar-35/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Mahedhar-35/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
