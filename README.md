@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mahedhar-35/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/Mahedhar-35/Leetcode/tree/master/0043-multiply-strings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mahedhar-35/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mahedhar-35/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Mahedhar-35/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0060-permutation-sequence) |
 ## Recursion
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mahedhar-35/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mahedhar-35/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
