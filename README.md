@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahedhar-35/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mahedhar-35/Leetcode/tree/master/0041-first-missing-positive) |
+| [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahedhar-35/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
@@ -111,8 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahedhar-35/Leetcode/tree/master/0044-wildcard-matching) |
+| [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahedhar-35/Leetcode/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
