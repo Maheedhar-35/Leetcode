@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mahedhar-35/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Mahedhar-35/Leetcode/tree/master/0075-sort-colors) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahedhar-35/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Mahedhar-35/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Mahedhar-35/Leetcode/tree/master/0075-sort-colors) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Mahedhar-35/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mahedhar-35/Leetcode/tree/master/0075-sort-colors) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 ## Backtracking
 |  |
