@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mahedhar-35/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mahedhar-35/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mahedhar-35/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahedhar-35/Leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Mahedhar-35/Leetcode/tree/master/0070-climbing-stairs) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 ## Greedy
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Mahedhar-35/Leetcode/tree/master/0046-permutations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mahedhar-35/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
