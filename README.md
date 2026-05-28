@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mahedhar-35/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mahedhar-35/Leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahedhar-35/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahedhar-35/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mahedhar-35/Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
