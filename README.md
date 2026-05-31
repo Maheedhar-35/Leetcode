@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahedhar-35/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mahedhar-35/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Mahedhar-35/Leetcode/tree/master/0044-wildcard-matching) |
+| [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0148-sort-list) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
+| [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Backtracking
 |  |
 | ------- |
