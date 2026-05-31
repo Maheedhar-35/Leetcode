@@ -11,5 +11,6 @@ class Solution(object):
             if count>=asteroids[i]:
                 count+=asteroids[i]
             else:
+                
                 return False
         return True            
