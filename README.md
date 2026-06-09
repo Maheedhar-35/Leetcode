@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mahedhar-35/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 ## Sliding Window
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahedhar-35/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Mahedhar-35/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Mahedhar-35/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
+| [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahedhar-35/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Mahedhar-35/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
