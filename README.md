@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Mahedhar-35/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mahedhar-35/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mahedhar-35/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mahedhar-35/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Mahedhar-35/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
