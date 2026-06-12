@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0260-single-number-iii) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Mahedhar-35/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mahedhar-35/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
