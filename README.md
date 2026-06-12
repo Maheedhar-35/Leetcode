@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Mahedhar-35/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Mahedhar-35/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
