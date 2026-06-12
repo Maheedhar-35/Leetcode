@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mahedhar-35/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Mahedhar-35/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Mahedhar-35/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
