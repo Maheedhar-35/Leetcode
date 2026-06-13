@@ -5,4 +5,4 @@ class Solution(object):
         :rtype: bool
         """
         num=list(set(nums))
-        return len(nums)>len(num)
+        return len(nums)!=len(num)
