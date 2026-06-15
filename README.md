@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahedhar-35/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahedhar-35/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Mahedhar-35/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahedhar-35/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Mahedhar-35/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahedhar-35/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Mahedhar-35/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
