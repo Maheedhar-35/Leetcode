@@ -11,14 +11,11 @@ class Solution(object):
         for i in s:
             if i in count:
                 result.append(i)
-                continue
-            if i=="*":
+            elif i=="*":
                 if result!=[]:      
                     result.pop()
-                continue
-            if i=="#":
+            elif i=="#":
                 result=result*2
-                continue
-            if i=="%" :
+            elif i=="%" :
                 result=result[::-1]
         return "".join(result)           
