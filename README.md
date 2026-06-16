@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0338-counting-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Trie
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mahedhar-35/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Mahedhar-35/Leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Mahedhar-35/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0338-counting-bits) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
