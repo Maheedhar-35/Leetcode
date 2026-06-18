@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Mahedhar-35/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahedhar-35/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mahedhar-35/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Mahedhar-35/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahedhar-35/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahedhar-35/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -252,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mahedhar-35/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mahedhar-35/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahedhar-35/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahedhar-35/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -510,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Mahedhar-35/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -528,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mahedhar-35/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
