@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mahedhar-35/Leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Mahedhar-35/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mahedhar-35/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Memoization
 |  |
 | ------- |
