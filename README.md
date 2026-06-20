@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mahedhar-35/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mahedhar-35/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Mahedhar-35/Leetcode/tree/master/0372-super-pow) |
+| [0390-elimination-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0390-elimination-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0390-elimination-game) |
 ## Hash Table
 |  |
 | ------- |
