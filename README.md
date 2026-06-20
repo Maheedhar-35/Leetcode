@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/Mahedhar-35/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mahedhar-35/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mahedhar-35/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Mahedhar-35/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mahedhar-35/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Segment Tree
 |  |
 | ------- |
