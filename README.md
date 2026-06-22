@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Mahedhar-35/Leetcode/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0414-third-maximum-number) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/Mahedhar-35/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Mahedhar-35/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0414-third-maximum-number) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mahedhar-35/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
