@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Mahedhar-35/Leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mahedhar-35/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Mahedhar-35/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Mahedhar-35/Leetcode/tree/master/0441-arranging-coins) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Mahedhar-35/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Mahedhar-35/Leetcode/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/Mahedhar-35/Leetcode/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
