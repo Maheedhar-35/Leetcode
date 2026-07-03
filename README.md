@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Mahedhar-35/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0470-implement-rand10-using-rand7](https://github.com/Mahedhar-35/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -693,4 +694,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Mahedhar-35/Leetcode/tree/master/0164-maximum-gap) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Mahedhar-35/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Mahedhar-35/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/Mahedhar-35/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
