@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahedhar-35/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Mahedhar-35/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0482-license-key-formatting](https://github.com/Mahedhar-35/Leetcode/tree/master/0482-license-key-formatting) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
