@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mahedhar-35/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Mahedhar-35/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahedhar-35/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Mahedhar-35/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Mahedhar-35/Leetcode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Mahedhar-35/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mahedhar-35/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Mahedhar-35/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/Mahedhar-35/Leetcode/tree/master/0498-diagonal-traverse) |
 ## Segment Tree
 |  |
 | ------- |
