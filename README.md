@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mahedhar-35/Leetcode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Mahedhar-35/Leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/Mahedhar-35/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mahedhar-35/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Mahedhar-35/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Mahedhar-35/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahedhar-35/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahedhar-35/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Mahedhar-35/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Mahedhar-35/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mahedhar-35/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Mahedhar-35/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahedhar-35/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Number Theory
 |  |
