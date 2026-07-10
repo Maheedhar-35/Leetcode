@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Mahedhar-35/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Mahedhar-35/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Mahedhar-35/Leetcode/tree/master/0217-contains-duplicate) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Mahedhar-35/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Mahedhar-35/Leetcode/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/Mahedhar-35/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0338-counting-bits) |
