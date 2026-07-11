@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Mahedhar-35/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0112-path-sum) |
+| [0279-perfect-squares](https://github.com/Mahedhar-35/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mahedhar-35/Leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Mahedhar-35/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Mahedhar-35/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Mahedhar-35/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mahedhar-35/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
