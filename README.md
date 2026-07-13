@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahedhar-35/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Mahedhar-35/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Mahedhar-35/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mahedhar-35/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Mahedhar-35/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Mahedhar-35/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Mahedhar-35/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Mahedhar-35/Leetcode/tree/master/0506-relative-ranks) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mahedhar-35/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Mahedhar-35/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Mahedhar-35/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Mahedhar-35/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Mahedhar-35/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Mahedhar-35/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bucket Sort
 |  |
