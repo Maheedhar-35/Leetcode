@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Mahedhar-35/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Mahedhar-35/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Mahedhar-35/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Mahedhar-35/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0494-target-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mahedhar-35/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
