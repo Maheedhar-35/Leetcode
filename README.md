@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/Mahedhar-35/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/Mahedhar-35/Leetcode/tree/master/0664-strange-printer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mahedhar-35/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/Mahedhar-35/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Mahedhar-35/Leetcode/tree/master/0664-strange-printer) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
