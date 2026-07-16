@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Mahedhar-35/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0670-maximum-swap](https://github.com/Mahedhar-35/Leetcode/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahedhar-35/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mahedhar-35/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0965-univalued-binary-tree) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Mahedhar-35/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Mahedhar-35/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Mahedhar-35/Leetcode/tree/master/0645-set-mismatch) |
+| [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/Mahedhar-35/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mahedhar-35/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mahedhar-35/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Mahedhar-35/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Mahedhar-35/Leetcode/tree/master/0897-increasing-order-search-tree) |
