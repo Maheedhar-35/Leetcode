@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Mahedhar-35/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0665-non-decreasing-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0665-non-decreasing-array) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
