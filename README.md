@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/Mahedhar-35/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/Mahedhar-35/Leetcode/tree/master/0664-strange-printer) |
+| [0686-repeated-string-match](https://github.com/Mahedhar-35/Leetcode/tree/master/0686-repeated-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Mahedhar-35/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Mahedhar-35/Leetcode/tree/master/0686-repeated-string-match) |
 ## Math
 |  |
 | ------- |
