@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Mahedhar-35/Leetcode/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
