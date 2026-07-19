@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Mahedhar-35/Leetcode/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahedhar-35/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahedhar-35/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Mahedhar-35/Leetcode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Mahedhar-35/Leetcode/tree/master/0704-binary-search) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Mahedhar-35/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/Mahedhar-35/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Mahedhar-35/Leetcode/tree/master/0664-strange-printer) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -912,4 +916,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mahedhar-35/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
