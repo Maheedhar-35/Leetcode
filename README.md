@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Mahedhar-35/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Mahedhar-35/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Mahedhar-35/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0213-house-robber-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Mahedhar-35/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Mahedhar-35/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Mahedhar-35/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Mahedhar-35/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mahedhar-35/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Mahedhar-35/Leetcode/tree/master/0233-number-of-digit-one) |
