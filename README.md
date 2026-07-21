@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Mahedhar-35/Leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/Mahedhar-35/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahedhar-35/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Mahedhar-35/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Mahedhar-35/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/Mahedhar-35/Leetcode/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0738-monotone-increasing-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mahedhar-35/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mahedhar-35/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
