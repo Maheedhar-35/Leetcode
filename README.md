@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mahedhar-35/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Mahedhar-35/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Mahedhar-35/Leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mahedhar-35/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1260-shift-2d-grid](https://github.com/Mahedhar-35/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Mahedhar-35/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mahedhar-35/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mahedhar-35/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
