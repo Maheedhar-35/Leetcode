@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mahedhar-35/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Mahedhar-35/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahedhar-35/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mahedhar-35/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/Mahedhar-35/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Mahedhar-35/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Mahedhar-35/Leetcode/tree/master/0664-strange-printer) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mahedhar-35/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
