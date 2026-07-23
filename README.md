@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/Mahedhar-35/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0754-reach-a-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahedhar-35/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mahedhar-35/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahedhar-35/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0754-reach-a-number) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
