@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahedhar-35/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0775-global-and-local-inversions](https://github.com/Mahedhar-35/Leetcode/tree/master/0775-global-and-local-inversions) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Mahedhar-35/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0390-elimination-game) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Mahedhar-35/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mahedhar-35/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Mahedhar-35/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Mahedhar-35/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/Mahedhar-35/Leetcode/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Mahedhar-35/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mahedhar-35/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
