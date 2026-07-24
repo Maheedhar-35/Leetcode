@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Mahedhar-35/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Mahedhar-35/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Mahedhar-35/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahedhar-35/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Mahedhar-35/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0771-jewels-and-stones](https://github.com/Mahedhar-35/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Mahedhar-35/Leetcode/tree/master/1345-jump-game-iv) |
