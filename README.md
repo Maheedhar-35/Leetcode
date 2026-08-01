@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mahedhar-35/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Mahedhar-35/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Mahedhar-35/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Mahedhar-35/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Mahedhar-35/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0470-implement-rand10-using-rand7](https://github.com/Mahedhar-35/Leetcode/tree/master/0470-implement-rand10-using-rand7) |
+| [0486-predict-the-winner](https://github.com/Mahedhar-35/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahedhar-35/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Mahedhar-35/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Mahedhar-35/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mahedhar-35/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Mahedhar-35/Leetcode/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Mahedhar-35/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Hash Table
 |  |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mahedhar-35/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Mahedhar-35/Leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0486-predict-the-winner](https://github.com/Mahedhar-35/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Mahedhar-35/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/Mahedhar-35/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Mahedhar-35/Leetcode/tree/master/0486-predict-the-winner) |
 ## Monotonic Stack
 |  |
 | ------- |
