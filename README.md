@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Mahedhar-35/Leetcode/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Mahedhar-35/Leetcode/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/Mahedhar-35/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Mahedhar-35/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Mahedhar-35/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahedhar-35/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Mahedhar-35/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mahedhar-35/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0763-partition-labels](https://github.com/Mahedhar-35/Leetcode/tree/master/0763-partition-labels) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mahedhar-35/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mahedhar-35/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mahedhar-35/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Mahedhar-35/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Mahedhar-35/Leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Mahedhar-35/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Mahedhar-35/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Mahedhar-35/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/Mahedhar-35/Leetcode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0763-partition-labels](https://github.com/Mahedhar-35/Leetcode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mahedhar-35/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mahedhar-35/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mahedhar-35/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
