@@ -4,7 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        res=[]
         smax=nums[0]
         currmax=nums[0]
         for i in range(1,len(nums)):
