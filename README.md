@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mahedhar-35/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Mahedhar-35/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mahedhar-35/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mahedhar-35/Leetcode/tree/master/0055-jump-game) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mahedhar-35/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Mahedhar-35/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mahedhar-35/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Mahedhar-35/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Mahedhar-35/Leetcode/tree/master/0062-unique-paths) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mahedhar-35/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/0064-minimum-path-sum) |
