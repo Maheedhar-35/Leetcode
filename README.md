@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahedhar-35/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mahedhar-35/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mahedhar-35/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mahedhar-35/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mahedhar-35/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Mahedhar-35/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Mahedhar-35/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mahedhar-35/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/Mahedhar-35/Leetcode/tree/master/0754-reach-a-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mahedhar-35/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Mahedhar-35/Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Mahedhar-35/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mahedhar-35/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mahedhar-35/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mahedhar-35/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahedhar-35/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mahedhar-35/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mahedhar-35/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Mahedhar-35/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Mahedhar-35/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mahedhar-35/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Mahedhar-35/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Mahedhar-35/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
