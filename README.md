@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mahedhar-35/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Mahedhar-35/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mahedhar-35/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Mahedhar-35/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
