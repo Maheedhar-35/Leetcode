@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Mahedhar-35/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mahedhar-35/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mahedhar-35/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
