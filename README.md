@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mahedhar-35/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahedhar-35/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Mahedhar-35/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mahedhar-35/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Mahedhar-35/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Mahedhar-35/Leetcode/tree/master/0788-rotated-digits) |
 | [1140-stone-game-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Mahedhar-35/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/Mahedhar-35/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mahedhar-35/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Mahedhar-35/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Mahedhar-35/Leetcode/tree/master/1340-jump-game-v) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Mahedhar-35/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mahedhar-35/Leetcode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Mahedhar-35/Leetcode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mahedhar-35/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mahedhar-35/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Mahedhar-35/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Mahedhar-35/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mahedhar-35/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
